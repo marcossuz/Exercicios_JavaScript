@@ -49,7 +49,7 @@ console.log ('Menor de idade')
 let numero = prompt('Favor informe um número.');
 
 if (numero == 0){
-    alert('O número digitado é 0.');
+    alert('O número digitado é zero.');
 } else if (numero > 0){
     alert('O número digitado é positivo.');
 } else {
